@@ -20,7 +20,7 @@ course: "09 - Intermediate Front End Development Projects"
 project: "03 - Use the Twitchtv JSON API"
 ---
 # Student Project - Free Code Camp
-Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/Myvqmo/.
+Build an app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/Myvqmo/
 
 ## Project Criteria:
 * Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
