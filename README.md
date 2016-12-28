@@ -2,7 +2,7 @@
 type: "folio"
 draft: false
 date: "2016-08-13"
-title: "Twitch Channels App"
+title: "Twitch Channels Widget"
 parent: "fcc"
 topics:
   - "code"
