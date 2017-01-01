@@ -10,10 +10,10 @@ tools:
   - "bootstrap"
   - "jquery"
   - "API"
-cover: "cover.png"
+cover: "cover.jpg"
 photo:
-  - "mockup-tablet.png"
-  - "mockup-mobile.png"
+  - "mockup-tablet.jpg"
+  - "mockup-mobile.jpg"
 link: "https://htko89.github.io/fcc-twitch-channels-widget/release/"
 code: "https://github.com/htko89/fcc-twitch-channels-widget"
 program: "01 - Front End Development Certification"
