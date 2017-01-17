@@ -1,5 +1,5 @@
 ---
-type: "folio"
+type: "project"
 draft: false
 date: "2016-08-13"
 title: "Twitch Channels Widget"
