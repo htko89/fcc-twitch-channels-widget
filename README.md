@@ -15,7 +15,6 @@ program: 01 - Front End Development Certification
 course: 09 - Intermediate Front End Development Projects
 project: 03 - Use the Twitchtv JSON API
 photos:
-  - cover.jpg
   - mockup-tablet.jpg
   - mockup-mobile.jpg
 path: code/fcc/twitch-channels-widget
