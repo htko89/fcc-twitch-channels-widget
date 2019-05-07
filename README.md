@@ -1,24 +1,3 @@
----
-layout: _pages/post
-title: Twitch Channels Widget
-date: '2016-08-13'
-link: 'https://htkoca.github.io/fcc-twitch-channels-widget/release/'
-code: 'https://github.com/htkoca/fcc-twitch-channels-widget'
-program: 01 - Front End Development Certification
-course: 09 - Intermediate Front End Development Projects
-project: 03 - Use the Twitchtv JSON API
-categories:
-  - code
-tags:
-  - bootstrap
-  - jquery
-  - API
-cover: cover.jpg
-images:
-  - mockup-tablet.jpg
-  - mockup-mobile.jpg
-  - screenshot-ipadpro.jpg
----
 # Student Project - Free Code Camp
 Build an app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/Myvqmo/
 
